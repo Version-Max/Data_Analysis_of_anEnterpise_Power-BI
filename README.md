@@ -1,1 +1,1 @@
-# Data_Analysis_of_anEnterpise_Power-BI
+# Descriptive analysis of an enterprise's business using Power BI
